@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beni1026)](https://solved.ac/beni1026/)
 
-[![commitcombo](http://commitcombo.com/combo-mini?user=beni1026&theme=Grass-mini)](https://github.com/devxb/CommitCombo)
+[![commitcombo](http://commitcombo.com/combo-mini?user=beni1026&theme=Lake-mini)](https://github.com/devxb/CommitCombo)
 
 
 
